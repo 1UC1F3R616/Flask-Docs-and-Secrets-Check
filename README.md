@@ -38,3 +38,5 @@ def callback():
 ```
 python APIdocs.py <directory/filename>
 ```
+
+### [Example](https://github.com/D-E-F-E-A-T/AttendanceApp-Backend/tree/master/Guides)
