@@ -36,5 +36,5 @@ def callback():
 
 ## Usage
 ```
-python3 APIdocs.py -f <filename>
+python APIdocs.py <directory/filename>
 ```
